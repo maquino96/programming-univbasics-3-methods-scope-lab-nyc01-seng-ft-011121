@@ -8,4 +8,6 @@ def toadstool
   puts status
 end
 
-mario() toadstool()
+def link_to_remote
+  puts "It"
+end
