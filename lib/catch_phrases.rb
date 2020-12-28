@@ -5,4 +5,5 @@ end
 
 def toadstool
   puts status
-endrspec spec/catch_phrases_spec.rb
+end
+
